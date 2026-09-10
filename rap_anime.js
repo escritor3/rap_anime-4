@@ -3,7 +3,7 @@ const PLAYLIST_URL = 'https://raw.githubusercontent.com/escritor3/rap_anime-4/ma
 
 module.exports = {
   id: 'rap_anime_repo',
-  name: 'Rap de Anime & Mangá',
+  name: 'Rap de Anime & Mangá (Português)', 
   version: '1.0.0',
   hasCatalog: true,
 
